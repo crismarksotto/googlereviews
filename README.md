@@ -2,6 +2,13 @@
 
 Simple js app that fetches reviews from google using api and place id.
 
+# FEATURES
+
+1. Fetch google reviews from google.
+2. Reviews popup when clicking the google review box.
+3. Dynamically load reviews in slick slider
+4. Fully customizable
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
